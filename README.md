@@ -16,7 +16,7 @@ I designed and implemented a database that handles the data of a fictitious loca
 6. Attribute-User View Matrix
 7. Business Rules
 ## SQL Files
-* [Data Insertion](/sql/data_insertion.pdf "data_insertion.sql")
+* [Data Insertion](/sql/data_insertion.sql "data_insertion.sql")
 * Queries
      1. [TimeTable at a Station](/sql/userView1.sql "userView1.sql")
      2. [Ride History of a Customer](/sql/userView2.sql "userView2.sql")
