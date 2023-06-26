@@ -4,12 +4,12 @@ I designed and implemented a database that handles the data of a fictitious loca
 #### Contents
 1. Project Description
 2. User Views
-   #1 TimeTable at a Station
-   #2 Ride History of a Customer
-   #3 Card Balance History of a Customer
-   #4 Driver Schedule
-   #5 Driver Monthly Salary Report
-   #6 Bus Fleet Management
+   #1 TimeTable at a Station  
+   #2 Ride History of a Customer  
+   #3 Card Balance History of a Customer  
+   #4 Driver Schedule  
+   #5 Driver Monthly Salary Report  
+   #6 Bus Fleet Management  
 4. Normalization
 5. ER Diagram
 6. Attribute-Domain Listing
